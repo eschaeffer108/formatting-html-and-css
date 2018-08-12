@@ -1,0 +1,22 @@
+/*Your styles here*/
+header {
+  background-color: #FF6600;
+  width: auto;
+  height: auto;
+  padding: auto;
+  margin: auto;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #F6F6EF;
+  padding: 2px;
+  margin: 5px;
+}
+
+img {
+  width: 40%;
+  height: auto;
+  align-self: auto;
+  margin: 5px;
+}
